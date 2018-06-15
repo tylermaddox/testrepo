@@ -1,0 +1,5 @@
+print("Hello Universe")
+print ("What is the world coming to?!")
+x=2
+y=x+1
+print y
